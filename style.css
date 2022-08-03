@@ -1,0 +1,62 @@
+body{
+background: black;
+}
+
+.post{
+background: white;
+width: 350px;
+height: 400px;
+margin: auto;
+}
+
+.post-header{
+display: flex;
+}
+
+.logo{
+width: 25px;
+height: 25px;
+margin: 5px 10px 5px 10px;
+}
+
+.iconos{
+display: flex;
+}
+
+.icono-heart{
+margin: 5px 10px 10px 10px;
+}
+
+.text{
+font-size: 80%;
+margin: 0px 10px 0px 10px;
+}
+
+.Imagen{
+width: 350px;
+height: 200px;
+}
+
+
+.icono-comment{
+    margin: 5px 10px 10px 10px;
+}
+
+.icono-planet{
+    margin:5px 10px 10px 10px;
+}
+
+.icono-save{
+    margin: 8px 10px 5px 240px;
+
+}
+
+.Letra-logo{
+font-size: 80%;
+margin: 0px 0px 5px 0px;
+}
+
+h6{
+margin: 5px 0px 0px;
+
+}
